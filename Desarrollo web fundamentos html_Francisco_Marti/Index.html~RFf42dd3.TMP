@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>hoja de vida</title>
+</head>
+
+<body>
+  <header>
+    <svg width="400px" height="55px" viewBox="0 0 400 55">
+      <image widh="400px" height="500px" xlink:href="img/nombre.svg"></image>
+    </svg>
+  </header>
+  <section>
+    <h1>
+      <center>Hoja de vida </center>
+    </h1>
+    <p>
+      <h2>Nombre: Francisco josue</h2>
+      <h2>Apellido: Marti Rodriguez</h2>
+      <h2>Fecha de nacimiento: 24/sep/1989</h2>
+      <h2>Lugar de nacimiento: caracas Venezuela</h2>
+    </p>
+    <p>
+      <nav>
+        <a href="Index.html">Inicio</a>
+        <a href="educacion.html">Educación</a>
+        <a href="experiencia.html">Experiencia</a>
+      </nav>
+    </p>
+    <p>
+      <h2>Información Personal</h2>
+    </p>
+  </section>
+  <p>
+    <img src="img/foto fm.jpg" alt="Fotofm" title="Foto FM" width="200px" height="250px">
+  </p>
+  <section>
+    <p>
+      <h1>Perfil</h1>
+    </p>
+    <p>
+      Persona atenta responsable y respetuosa interesado en avanzar y salir adelante, dispuesto a aprender capaz de lograr el mayor desempeño en el puesto adquirido.
+      <h1>habilidades:</h1>Rápido en adoptarme al trabajo, rápido en trabajos que sean como cajero, vendedor o similares. conocimientos en programación básicos, desarrollo web, implementación de servidores ya sea en Windows o Linux, conocimiento
+      avanzado en redes tanto cableadas como inalámbricas y cableado estructurado, conocimiento avanzado en implementación de sistemas de seguridad. ejemplo: cctv, sistemas de alarmas.
+
+    </p>
+    <p>
+      <ul>
+        <h3>Idiomas Dominados</h3>
+        <li>Español lengua materna</li>
+        <li>Ingles basico </li>
+
+      </ul>
+    </p>
+  </section>
+  <footer>
+    <h1>Contacto</h1><br />
+    <h3>Correo: Josuemarti89@gmail.com</h3>
+    <h3>Telefono: 323-597-51-76</h3>
+    <h3>Dirección: Cali Colombia</h3>
+
+
+  </footer>
+</body>
+&copy; Derechos Reservados
+
+</html>
